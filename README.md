@@ -13,6 +13,18 @@ pan image
 
 fusion image
 ![fusion image](images/fusion1.jpg)
+
+**image 2**
+
+ms image
+![ms image](images/ms1.jpg)
+
+pan image
+![pan image](images/pan1.jpg)
+
+fusion image
+![fusion image](images/fusion1.jpg)
+
 <img width="600" height="400" src="https://github.com/VectorFist/CNN-Fusion/blob/master/fusion%20image/def_low.jpg" alt="低分辨率彩色图"/>  
 高分辨率灰度图  
 <img width="600" height="400" src="https://github.com/VectorFist/CNN-Fusion/blob/master/fusion%20image/def_gray.jpg" alt="高分辨率灰度图"/>  

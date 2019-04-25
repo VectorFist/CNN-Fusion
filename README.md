@@ -35,6 +35,7 @@ fusion image
 **训练模型**
 ```
 train.py用于训练模型，其中可以指定一些必要的训练参数。
+对于使用的cifar数据集，需要在cifar_data_hls.py中read_data_sets中指定数据集目录。
 ```
 **测试模型**
 ```

@@ -6,9 +6,9 @@ import tensorflow as tf
 
 
 def fusion_image():
-    pan_path = '../ImageFusion/remote_sense_image/图片/high.jpg'
-    ms_path = '../ImageFusion/remote_sense_image/图片/low.jpg'
-    save_path = 'images/fusion2.jpg'
+    pan_path = 'images/pan1.jpg'
+    ms_path = 'images/ms1.jpg'
+    save_path = 'images/fusion1.jpg'
 
     print('prepare data...')
     cifar_data_hls_provider = cifar_hls_read_data(read=False)

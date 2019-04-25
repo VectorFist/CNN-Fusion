@@ -31,16 +31,16 @@ fusion image
 
 ![fusion image](images/fusion2.jpg)
 
-<img width="600" height="400" src="https://github.com/VectorFist/CNN-Fusion/blob/master/fusion%20image/def_low.jpg" alt="低分辨率彩色图"/>  
-高分辨率灰度图  
-<img width="600" height="400" src="https://github.com/VectorFist/CNN-Fusion/blob/master/fusion%20image/def_gray.jpg" alt="高分辨率灰度图"/>  
-高分辨率彩色融合图  
-<img width="600" height="400" src="https://github.com/VectorFist/CNN-Fusion/blob/master/fusion%20image/def_fusion.jpg" alt="高分辨率彩色融合图"/>  
-  
-  
-低分辨率彩色图  
-<img width="400" height="600" src="https://github.com/VectorFist/CNN-Fusion/blob/master/fusion%20image/per_low.jpg" alt="低分辨率彩色图"/>  
-高分辨率灰度图  
-<img width="400" height="600" src="https://github.com/VectorFist/CNN-Fusion/blob/master/fusion%20image/per_gray.jpg" alt="高分辨率灰度图"/>  
-高分辨率彩色融合图  
-<img width="400" height="600" src="https://github.com/VectorFist/CNN-Fusion/blob/master/fusion%20image/per_fusion.jpg" alt="高分辨率彩色融合图"/>
+## 实验说明
+**训练模型**
+```
+train.py用于训练模型，其中可以指定一些必要的训练参数。
+```
+**测试模型**
+```
+evaluate.py用于在测试集上评估训练好的模型。
+```
+**融合图像**
+```
+fusion.py中使用训练好的模型来融合遥感图像。
+```

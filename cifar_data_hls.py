@@ -118,8 +118,8 @@ def read_data_sets(reshape=True, read=True):
         print('read datasets done !!!')
         return Datasets(train=None, test=None, name='cifar_hls')
 
-    data_10_dir = '../ImageFusion_2/cifar-10-batches-py/'
-    data_100_dir = '../ImageFusion_2/cifar-100-python/'
+    data_10_dir = 'cifar/cifar-10-batches-py/'
+    data_100_dir = 'cifar/cifar-100-python/'
     train_10_files = [data_10_dir+'data_batch_{:d}'.format(i) for i in range(1, 6)]
     train_100_file = data_100_dir + 'train'
     test_10_file = data_10_dir + 'test_batch'

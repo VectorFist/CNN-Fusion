@@ -21,15 +21,15 @@ fusion image
 
 ms image
 
-![ms image](images/ms1.jpg)
+![ms image](images/ms2.jpg)
 
 pan image
 
-![pan image](images/pan1.jpg)
+![pan image](images/pan2.jpg)
 
 fusion image
 
-![fusion image](images/fusion1.jpg)
+![fusion image](images/fusion2.jpg)
 
 <img width="600" height="400" src="https://github.com/VectorFist/CNN-Fusion/blob/master/fusion%20image/def_low.jpg" alt="低分辨率彩色图"/>  
 高分辨率灰度图  
